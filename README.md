@@ -1,4 +1,4 @@
-[![Header](https://github.com/QAseasons/QAseasons/blob/main/assets/cover.png)]{width=auto height=100%}
+![Header](https://github.com/QAseasons/QAseasons/blob/main/assets/cover.png)
 
 About me
 
