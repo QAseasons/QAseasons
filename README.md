@@ -20,3 +20,10 @@
 ### **Follow Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090900?style=for-the-badge&logo=linkedin&logoColor=00a1db)](https://www.linkedin.com/in/st-nathan)
+<head>
+	<style>
+		body {
+			background-color: #2F4F4F
+		}
+	</style>
+</head>
