@@ -1,5 +1,14 @@
 [![Header](https://github.com/QAseasons/QAseasons/blob/main/assets/cover.png "Go to my Linkedin")](https://www.linkedin.com/in/st-nathan/)
 
+<head>
+	<style>
+		body {
+			background-color: #2F4F4F
+		}
+	</style>
+</head>
+<body>
+
 ## **I'm Quality assurance engineer**
 
 ### **Languages and Tools**
@@ -20,10 +29,5 @@
 ### **Follow Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090900?style=for-the-badge&logo=linkedin&logoColor=00a1db)](https://www.linkedin.com/in/st-nathan)
-<head>
-	<style>
-		body {
-			background-color: #2F4F4F
-		}
-	</style>
-</head>
+
+</body>
